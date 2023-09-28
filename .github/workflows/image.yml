@@ -40,3 +40,4 @@ jobs:
 
       - name: Build images and push to container registry
         run: manage --show image jupyter-service build --platform=amd64 --platform=arm64 --push
+

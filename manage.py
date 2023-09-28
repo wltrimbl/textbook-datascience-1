@@ -20,7 +20,7 @@ IMAGE_PATH = ROOT_PATH / 'image'
 TEXTBOOK_PATH = ROOT_PATH / 'textbook'
 PREVIEW_PATH = ROOT_PATH / 'preview'
 
-REPO_OWNER = 'uchicago-dsi'
+REPO_OWNER = 'wltrimbl'
 
 REPO_NAME = 'textbook-datascience-1'
 
